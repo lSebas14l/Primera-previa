@@ -1,0 +1,32 @@
+.container{
+
+	text-align: center;
+	margin-top: 10%;
+	background-color: burlywood !important;
+	margin: 10%;
+
+
+}
+.container #respuestas{
+
+background-color: white;
+margin: 20%;
+padding-top: 20px;
+
+}
+header{
+
+	background-color: white;
+	width: auto;
+	height: auto;
+}
+hr{
+
+width: 40%;
+
+}
+
+h1 {
+text-align: center;
+
+}
